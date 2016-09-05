@@ -15,6 +15,7 @@ namespace _00_Hello
         public void TestHelloFred()
         {
             Assert.AreEqual("hello, Fred", Functions.Hello("Fred"));
+
         }
     }
 }
